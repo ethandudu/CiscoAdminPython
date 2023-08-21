@@ -1,6 +1,5 @@
 import serial.tools.list_ports
 from tkinter import *
-from functools import partial
 import time
 
 
